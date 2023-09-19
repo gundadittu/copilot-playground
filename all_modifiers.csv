@@ -1,0 +1,132 @@
+Modifier,Modifier Description
+22,Increased Procedural Services (surgical/procedures codes only)
+24,Unrelated evaluation and management service by the same physician during a postoperative period
+25,"Significant, separately identifiable evaluation and management service by the same physician on the same day of the procedure or other service"
+26,Professional Component Only (separate from technical component)
+50,Bilateral Procedure
+51,Multiple procedures
+52,Partially Reduced/Eliminated Services
+53,Discontinued Procedure (professional services only)
+54,Surgical Care Only
+55,Postoperative Management Only
+57,An evaluation and management (E/M) service that resulted in the initial decision to perform the surgery may be identified by adding modifier 57 to the appropriate level of E/M service.
+58,Staged or Related Procedure or Service During Postoperative Period by Same Physician
+59,Distinct Procedural Service
+62,Co-Surgeons
+66,Team Surgeons – Surgical Team
+73,Prior Discontinued Ambulatory Surgical Center (ASC) or Outpatient Hospital
+74,After Anesthesia Administration - Discontinued Ambulatory Surgical Center (ASC) or Outpatient Hospital
+76,Repeat procedure by same physician
+77,Repeat procedure by another physician
+78,Return to Operating Room for related surgery during post op period
+79,Unrelated procedure or service by same physician during postoperative period
+90,Reference (Outside) Laboratory
+91,Repeat Clinical Diagnostic Lab Test
+99,"Multiple Modifiers (same line, same code)"
+AI,Principal Physician of Record
+AY,Item or service furnished to ESRD patient - not for ESRD treatment
+CR,Catastrophe/Disaster
+CT,Computed tomography services furnished using equipment that does not meet each of the attributes of the National Electrical Manufacturers Association (NEMA) XR-29-2013 standard
+FS,Split (or shared) evaluation and management visit
+FT,Unrelated evaluation and management during post-op global period
+FX,X-ray taken using film
+FY,X-ray taken using computed radiography
+GC,Service has been performed in part by a resident under the direction of a teaching physician
+GJ,Opt-out physicians billing on an emergency basis for non-contracted patients.
+G0,"Used to identify telehealth services furnished for purposes of diagnosis, evaluation, or treatment of symptoms of an acute stroke."
+GV,Attending physician is not employed or paid under agreement by the patient's Hospice provider
+GW,Condition not related to the patient's terminal condition
+JW,Drug amount discarded/not administered to any patient
+PD,Diagnostic or related non diagnostic service within three-day inpatient admit
+PT,Colorectal cancer screening test; converted to diagnostic test or other procedure.
+Q1,Routine clinical service provided in a clinical research study that is in an approved clinical research study
+Q0,Investigational clinical service provided in a clinical research study that is in an approved clinical research study
+UN,Two patients served (portable x-ray)
+UP,Three patients served (portable x-ray)
+UQ,Four patients served (portable x-ray)
+UR,Five patients served (portable x-ray)
+US,Six or more patients served (portable x-ray)
+XE,"Separate encounter, A service that is distinct because it occurred during a separate encounter"
+XP,"Separate Practitioner, A service that is distinct because it was performed by a different practitioner"
+XS,"Separate Structure, A service that is distinct because it was performed on a separate organ/structure"
+XU,"Unusual Non-Overlapping Service, the use of a service that is distinct because it does not overlap usual components of the main service"
+GA,"Waiver of Liability Statement Issued as Required by Payer Policy. Used to report a required ABN was issued for a service and is on file. A copy of ABN does not have to be submitted, but must be made available upon request"
+GX,"Notice of Liability Issued, Voluntary Under Payer Policy. Used to report a voluntary ABN was issued for a service"
+GY,"Notice of Liability Not Issued, Not Required Under Payer Policy. Used to report that an ABN was not issued because item or service is statutorily excluded or does not meet definition of any Medicare benefit"
+GZ,Item or Service Expected to Be Denied as Not Reasonable and Necessary. Used to report an ABN was not issued for a service
+D,Diagnostic or therapeutic site other than 'P' or 'H' when these codes are used as origin codes. This modifier is to be used for transports to or from an Ambulatory surgical center (ASC) or a free-standing psychiatric facility.
+E,"Residential, domiciliary, custodial facility (other than an 1819 facility)"
+G,Hospital-based dialysis facility (hospital or hospital-related)
+GM,Multiple patients on one ambulance trip. Note: Providers need to submit the appropriate origin and destination modifiers in the first modifier position and HCPCS modifier GM in the second modifier position.
+H,Hospital. This modifier must be submitted for a psychiatric facility located at a hospital.
+I,"Site of transfer (e.g., airport or helicopter pad) between types of ambulance vehicles"
+J,Non hospital-based dialysis facility
+N,Skilled nursing facility (SNF) (1819 Facility)
+P,"Physician's office (includes HMO non-hospital facility, clinic, etc.) For Medicare purposes, urgent care centers, clinics and freestanding emergency rooms are considered physician offices."
+QL,Patient pronounced dead after ambulance called
+R,Residence
+S,Scene of accident or acute event
+X,"(Destination code only) Intermediate stop at physician's office on the way to the Hospital (includes HMO non-hospital facility, clinic, etc.)"
+LT,Left side of body
+RT,Right side of body
+E1,"Upper left, eyelid"
+E3,"Upper right, eyelid"
+E2,"Lower left, eyelid"
+E4,"Lower right, eyelid"
+CO,Outpatient occupational therapy services furnished in whole or in part by an occupational therapy assistant
+CQ,Outpatient physical therapy services furnished in whole or in part by a physical therapist assistant
+GN,Services delivered under an outpatient speech language pathology plan of care
+GO,Services delivered under an outpatient occupational therapy plan of care
+GP,Services delivered under an outpatient physical therapy plan of care
+KX,Used to indicate the services rendered are medically necessary
+93,Synchronous telemedicine service rendered via telephone or other real-time interactive audio-only telecommunications system
+95,Synchronous telemedicine service via real-time audio and video telecommunications
+FQ,Service furnished using audio-only communication technology
+FR,"Supervising practitioner present through two-way, audio and video communication"
+GQ,Alaska and Hawaii only - asynchronous telecommunication system
+1P,Performance Measure Exclusion Modifier due to Medical Reasons
+2P,Performance Measure Exclusion Modifier due to Patient Reasons
+3P,Performance Measure Exclusion Modifier due to System Reasons
+8P,"Performance Measure Reporting Modifier – action not performed, reason not otherwise specified"
+AT,Acute or Active Treatment
+80,Assistant surgeon
+81,Minimum assistant surgeon
+82,Assistant surgeon – when qualified resident surgeon not available
+AS,"Physician Assistant (PA), Nurse Practitioner (NP) or Clinical Nurse Specialist (CNS) assistant at surgery services"
+AA,Anesthesia services performed personally by an anesthesiologist
+AD,Medical supervision by a physician; more than four concurrent anesthesia procedures
+G8,"Monitored anesthesia care (MAC) for deep complex, complicated or markedly invasive surgical procedure"
+G9,Monitored anesthesia care (MAC) for a patient who has a history of severe cardiopulmonary condition
+QK,"Medical direction of two, three or four concurrent anesthesia procedures involving qualified individuals"
+QS,Monitored anesthesia care service
+QX,CRNA service; with medical direction by a physician
+QY,Medical direction of one certified registered nurse anesthetist (CRNA) by an anesthesiologist
+QZ,CRNA service; without medical direction by a physician
+23,"Unusual anesthesia - Used to report a procedure which usually requires either no anesthesia or local anesthesia; however, because of unusual circumstances must be done under general anesthesia. Coverage/payment will be determined on a ""by-report"" basis."
+47,Anesthesia by surgeon – Used to report regional or general anesthesia provided by the surgeon (Not covered by Medicare).
+P1 – P6,Physical Status Modifiers (Not used by Medicare)
+LC,Left circumflex coronary artery
+LD,Left anterior descending coronary artery
+RI,Ramus Intermediu
+RC,Right coronary artery
+LM,Left main coronary artery
+TA,"Left foot, great toe"
+T1,"Left foot, second digit"
+T2,"Left foot, third digit"
+T3,"Left foot, fourth digit"
+T4,"Left foot, fifth digit"
+T5,"Right foot, great toe"
+T6,"Right foot, second digit"
+T7,"Right foot, third digit"
+T8,"Right foot, fourth digit"
+T9,"Right foot, fifth digit"
+FA,"Left hand, thumb"
+F1,"Left hand, second digit"
+F2,"Left hand, third digit"
+F3,"Left hand, fourth digit"
+F4,"Left hand, fifth digit"
+F5,"Right hand, thumb"
+F6,"Right hand, second digit"
+F7,"Right hand, third digit"
+F8,"Right hand, fourth digit"
+F9,"Right hand, fifth digit"

@@ -22,3 +22,7 @@
 - https://sebastianraschka.com/blog/2023/llm-reading-list.html
 - https://www.promptingguide.ai/techniques/rag
 - https://python.langchain.com/docs/modules/agents/
+
+# helpful reading
+- https://web.stanford.edu/~jurafsky/slp3/
+- https://www.promptingguide.ai/papers
